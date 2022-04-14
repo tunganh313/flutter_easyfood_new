@@ -1,0 +1,1 @@
+const priceText = 'Giá tiền';

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "329009028082",
+    "firebase_url": "https://eatitv2-310102-default-rtdb.firebaseio.com",
+    "project_id": "eatitv2-310102",
+    "storage_bucket": "eatitv2-310102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329009028082:android:56134543d50138342ce96b",
+        "android_client_info": {
+          "package_name": "com.dev.flutter_eat_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329009028082-q698f0b397di7p8u0nivibgb9utu5k7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWBKQSLyk5DByeQqsVQNoyhQZ0Hf-7BSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329009028082-q698f0b397di7p8u0nivibgb9utu5k7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329009028082:android:ba556735795fb9652ce96b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_easyfood_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329009028082-q698f0b397di7p8u0nivibgb9utu5k7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWBKQSLyk5DByeQqsVQNoyhQZ0Hf-7BSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329009028082-q698f0b397di7p8u0nivibgb9utu5k7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
